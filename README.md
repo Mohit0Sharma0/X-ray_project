@@ -187,8 +187,8 @@ Kyungsang Kim https://www.mathworks.com/matlabcentral/fileexchange/35548-3d-cone
 ## 7. Author
 ### Michael Behr
 * ReadMe + MATLAB coding + Testing Protocol
-* Contact    - MichaelBehr13@gmail.com
-* Insitution - University of Waterloo (Current), Toronto Rehabilitation Institute (OLD)
+* Contact    - mohit1sharma098@gmail.com
+* Insitution - GLA UNIVERSITY 
 
 
 ## 8. Figures
