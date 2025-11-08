@@ -185,7 +185,7 @@ Patil S and Ravi B.  Voxel-based representation, display and thickness analysis 
 Kyungsang Kim https://www.mathworks.com/matlabcentral/fileexchange/35548-3d-cone-beam-ct-cbct-projection-backprojection-fdk-iterative-reconstruction-matlab-examples
 
 ## 7. Author
-### Michael Behr
+### Mohit Sharma 
 * ReadMe + MATLAB coding + Testing Protocol
 * Contact    - mohit1sharma098@gmail.com
 * Insitution - GLA UNIVERSITY 
